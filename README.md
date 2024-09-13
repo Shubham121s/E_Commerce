@@ -1,6 +1,3 @@
-Sure! Here’s the updated README file without the license section:
-
----
 
 # E-Commerce Project
 
@@ -98,4 +95,4 @@ A MERN stack eCommerce application for browsing products, managing a shopping ca
 
 ---
 
-Feel free to further customize it according to your project's specifics!
+
